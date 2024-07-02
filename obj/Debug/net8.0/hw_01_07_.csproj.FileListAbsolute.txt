@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\bin\Debug\net8.0\hw_01_07_.exe
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\bin\Debug\net8.0\hw_01_07_.deps.json
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\bin\Debug\net8.0\hw_01_07_.runtimeconfig.json
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\bin\Debug\net8.0\hw_01_07_.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\bin\Debug\net8.0\hw_01_07_.pdb
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\refint\hw_01_07_.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.pdb
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\hw_01_07_.genruntimeconfig.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_01_07_\obj\Debug\net8.0\ref\hw_01_07_.dll

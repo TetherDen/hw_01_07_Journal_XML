@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJournal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Journal>
+    <Title>NewTitle</Title>
+    <Publisher>NewPubblisher</Publisher>
+    <Pages>225</Pages>
+    <Date>33.33.2024</Date>
+  </Journal>
+  <Journal>
+    <Title>SomeTitle</Title>
+    <Publisher>SomePubblisher</Publisher>
+    <Pages>111</Pages>
+    <Date>11.11.2011</Date>
+  </Journal>
+  <Journal>
+    <Title>title3</Title>
+    <Publisher>publisher3</Publisher>
+    <Pages>222</Pages>
+    <Date>02.02.2222</Date>
+  </Journal>
+</ArrayOfJournal>
